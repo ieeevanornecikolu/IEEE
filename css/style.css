@@ -858,8 +858,12 @@ section {
     }
     
     .hero {
-        padding-top: 80px;
-        height: calc(100vh - 80px);
+        height: 100vh;
+        padding-top: 0;
+    }
+    
+    .hero-content {
+        padding-top: 100px;
     }
     
     .hero-title {
@@ -934,8 +938,12 @@ section {
     }
     
     .hero {
-        padding-top: 70px;
-        height: calc(100vh - 70px);
+        height: 100vh;
+        padding-top: 0;
+    }
+    
+    .hero-content {
+        padding-top: 90px;
     }
     
     .hero-title {
